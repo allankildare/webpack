@@ -8,9 +8,11 @@
     "build": "cross-env NODE_ENV=production webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Allan Kildare",
   "license": "ISC",
   "devDependencies": {
+    "webpack-dev-server": "3.1.4",
+    "file-loader": "1.1.11",
     "cross-env": "5.1.5",
     "optimize-css-assets-webpack-plugin": "4.0.1",
     "uglifyjs-webpack-plugin": "1.2.5",

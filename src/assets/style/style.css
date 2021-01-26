@@ -1,3 +1,7 @@
 body {
     background-color: #CCC;
+    background-image: url(../img/profile.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
 }
